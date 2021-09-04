@@ -1,0 +1,10 @@
+.main{
+    margin: auto;
+    max-width: 500px;
+    padding: 10px;
+}
+
+.main h1{
+    font-size: 20px;
+    text-align: center;
+}
